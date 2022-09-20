@@ -6,6 +6,8 @@ SKILLS DEMONSTRATED:
 - CSS
 
 SELF-REFLECTION: 
+This was a straight forward project. Worked on some anchor tags, p elements. Nothing too overly technical. 
+
 
 Assignment:
 Iteration 1: Initial Structure
