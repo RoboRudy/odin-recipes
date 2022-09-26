@@ -11,11 +11,17 @@ body {
 
 img {
     height: auto;
+    display: block;
     width: 500px;
+    margin: auto;
 }
 
 nav ul li {
     list-style: none;
+    display: inline-flex;
+    font-weight: 400;
+    padding-left: 10px;
+    font-size: 20px;
 }
 
 p, a, a:hover, a:active, a:focus, a::after{
