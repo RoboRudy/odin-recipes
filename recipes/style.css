@@ -1,0 +1,40 @@
+:root {
+    --heading-color: rgb(255, 255, 255);
+    --text-color: rgb(255, 255, 255);
+    --body-color: rgb(255, 81, 0);
+    --box-color: rgba(255, 81, 0, 0.699);
+}
+
+body {
+    background-color: var(--body-color)
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+p, a, a:hover, a:active, a:focus, a::after{
+    color: --text-color;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.title, .heading {
+    font-family: 'Lobster', cursive;
+    color: var(--heading-color);
+}
+
+.title {
+    font-size: 80px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 40px;
+}
