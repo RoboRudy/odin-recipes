@@ -44,3 +44,10 @@ p, a, a:hover, a:active, a:focus, a::after{
 .heading {
     font-size: 40px;
 }
+
+.banner {
+    height: 60vh;
+    width: 100vw;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+}
